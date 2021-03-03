@@ -1,0 +1,69 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sophia's Website"
+theme="dream"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  background = "#fff"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "royalblue"
+
+  # dark mode
+  # defaultDark = true
+  backgroundDark = "royalblue"
+  backgroundImageDark = "/me/background.jpg"
+  darkLinkColor = "pink"
+  # darkNav = true
+  # dark404 = true
+
+  images = ["me/background.jpg"]
+
+  author = "Sophia"
+  description = "My personal website"
+  avatar = "/me/yohane.png"
+  headerTitle = "sophia"
+  motto = "Yohane Tsushima is swag."
+
+  # footerBottomText = ""
+
+  rss = false
+
+  # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "wanglianfeng1950@gmail.com"
+  instagram = "spiritcul"
+
+  siteStartYear = 2021
+
+  favicon = "/favicon.ico"
+
+  highlightjs = true
+  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["clojure", "ocaml"]
+  highlightjsTheme = "tomorrow"
+  highlightjsThemeDark = "tomorrow-night"
+
+  # search
+  enableSearch = false
+
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+  # reversePostAndAside = true
+
+  [params.advanced]
+    customCSS = ["css/custom.css"]
+    customJS = []
