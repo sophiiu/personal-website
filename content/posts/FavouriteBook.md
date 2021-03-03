@@ -1,7 +1,6 @@
 ---
 title: Favourite Book
-date: 2021-03-02T15:54:35-08:00
-lastmod: 2021-03-02T15:54:35-08:00
+date: 2021-02-02T15:54:35-08:00
 author: Sophia
 # avatar: /img/yohane.png
 # authorlink: https://author.site
