@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sophiiu.github.io/"
 languageCode = "en-us"
 title = "Sophia's Website"
 theme="dream"
@@ -37,14 +37,13 @@ theme="dream"
 
   rss = false
 
-  # utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
-
   # valine = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
   email = "wanglianfeng1950@gmail.com"
   instagram = "spiritcul"
+  github = "sophiiu"
 
   siteStartYear = 2021
 
