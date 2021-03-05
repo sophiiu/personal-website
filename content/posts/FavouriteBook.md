@@ -13,7 +13,7 @@ tags:
 
 ---
 
-My favourite book is literlly all of Susin Nielson's books.
+My favourite book is literally all of Susin Nielson's books.
 
 <!--more-->
 
