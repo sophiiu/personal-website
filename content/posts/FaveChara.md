@@ -18,7 +18,7 @@ My favourite character of all time is Yoshiko Tsushima
 
 I really enjoy the antics and the character of Yoshiko Tsushima, or otherwise known as 'Yohane'. She is from an anime called Love Live!! Sunshine!, as one of the main characters of the 9. Love Live!! Sunshine!! is also one my favourite animes and is the sequel to Love Live!! School Idol Project.
 
-The main plot of it is that a girl gets inspired by school idols, which is basically just normal idols but they are in school and is an idol group / club for this school. Then their school started failing, and they try to save it by trying to get new people to apply for the school using school idols. The leader of the group finds 8 other girls to join her, and together they make Aquors.
+The main plot of it is that a girl gets inspired by school idols, which is basically just normal idols but they are in school and is an idol group / club for this school. Then their school started failing, and they try to save it by trying to get new people to apply for the school using school idols. The leader of the group finds 8 other girls to join her, and together they make Aqours.
 
 Yoshiko Tsushima is a girl that's extremely unique and is teased for her extragavent personality. Her whole schmick is that she calls herself "Fallen Angel Yohane", and gets annoyed when someone calls her by her real name, Yoshiko. 
 
