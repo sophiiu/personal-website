@@ -8,9 +8,8 @@ cover: /img/incentivefavechara.png
 categories:
   - category1
 tags:
-  - Favourites
+  - favourites
   - Anime
-draft: true
 ---
 
 My favourite character of all time is Yoshiko Tsushima
