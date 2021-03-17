@@ -41,4 +41,4 @@ Both Yohane and Yoshiko are so likeable to me and I'm happy I found out about th
 In short, yeah. I love Yoshiko, Yohane, whatever. 11/10 character, well written, dorky, and just amazing. She's also the girl in my profile picture and my whole theme is just about her.
 
 [More about Yoshiko](https://love-live.fandom.com/wiki/Yoshiko_Tsushima)
-![Giran!](https://static.wikia.nocookie.net/love-live/images/7/76/UR_101063001_Yoshiko.png/revision/latest/scale-to-width-down/800?cb=20200622103729)
+![Yohane](https://i.idol.st/u/card/art/2x/34Tsushima-Yoshiko-Angel-Sniper-UR-cuvmbt.png)
